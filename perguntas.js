@@ -18,20 +18,20 @@ criaCartao(
 
 criaCartao(
     'HTML',
-    'd) Para que serve a tag <a>?',
+    'd) Para que serve a tag < a >?',
     'Criar links'
 )
 
 criaCartao(
     'HTML',
-    'e) O que é uma tag <div>?',
+    'e) O que é uma tag < div >?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
     'HTML',
     'f) Como criar uma lista numerada?',
-    'Use a tag <ol> com <li>'
+    'Use a tag < ol > com < li >'
 )
 
 criaCartao(
