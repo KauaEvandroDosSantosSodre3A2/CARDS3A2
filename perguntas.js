@@ -1,53 +1,53 @@
 criaCartao(
     'CSS',
-    'O que é CSS?',
+    'a) O que é CSS?',
     'É uma linguagem para estilizar páginas HTML'
 )
 
 criaCartao(
     'CSS',
-    'Para que serve o id no CSS?',
+    'b) Para que serve o id no CSS?',
     'Estilizar um elemento único'
 )
 
 criaCartao(
     'CSS',
-    'Como mudar a cor de fundo com CSS?',
+    'c) Como mudar a cor de fundo com CSS?',
     'Use background-color'
 )
 
 criaCartao(
     'HTML',
-    'Para que serve a tag <a>?',
+    'd) Para que serve a tag <a>?',
     'Criar links'
 )
 
 criaCartao(
     'HTML',
-    'O que é uma tag <div>?',
+    'e) O que é uma tag <div>?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
     'HTML',
-    'Como criar uma lista numerada?',
+    'f) Como criar uma lista numerada?',
     'Use a tag <ol> com <li>'
 )
 
 criaCartao(
     'JavaScript',
-    'O que é JavaScript?',
+    'g) O que é JavaScript?',
     'Linguagem para adicionar interatividade em páginas web'
 )
 
 criaCartao(
     'JavaScript',
-    'Como exibir uma mensagem de alerta?',
+    'h) Como exibir uma mensagem de alerta?',
     'Use alert()'
 )
 
 criaCartao(
     'JavaScript',
-    'Para que serve o let no JavaScript?',
+    'i) Para que serve o let no JavaScript?',
     'Declarar variáveis com escopo de bloco'
 )
