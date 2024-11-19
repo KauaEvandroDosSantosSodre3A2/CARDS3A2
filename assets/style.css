@@ -1,11 +1,11 @@
 :root {
-    --text-color: #FDFDA7;
-    --card-front-color: #b88900;
-    --card-back-color: #d3a007;
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
 
 body {
-    background: url('https://pt.vecteezy.com/foto/23440651-ceu-vida-apos-a-morte-escadaria-gerar-ai');
+    background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 
